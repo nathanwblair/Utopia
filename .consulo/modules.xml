@@ -526,9 +526,12 @@
         <module-layer name="Linux (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -548,9 +551,12 @@
         <module-layer name="Linux (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -570,9 +576,12 @@
         <module-layer name="Linux (any)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -592,9 +601,12 @@
         <module-layer name="MacOS (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -614,9 +626,12 @@
         <module-layer name="MacOS (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -636,9 +651,12 @@
         <module-layer name="MacOS (any)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -658,9 +676,12 @@
         <module-layer name="Windows (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
@@ -680,9 +701,12 @@
         <module-layer name="Windows (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Materials/sdfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
           <orderEntry type="sourceFolder" />
