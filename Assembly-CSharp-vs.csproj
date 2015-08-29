@@ -47,10 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Models\sadfsdf.cs" />
-     <Compile Include="Assets\Prefabs\i.cs" />
-     <Compile Include="Assets\Scripts\ItemText.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\ItemTransformation.cs" />
-     <Compile Include="Assets\_Scenes\sdfsdf.cs" />
+     <Compile Include="Assets\Scripts\PlatformController.cs" />
+     <Compile Include="Assets\Scripts\PlatformManager.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Installers/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
