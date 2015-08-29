@@ -12,7 +12,9 @@ public class PlatformController : MonoBehaviour
 		{
 			for (int i = 0; i < items.Length; i++)
 			{
-				Instantiate(items[i], transform.GetChild(i).position, Quaternion.identity);
+				GameObject item = Instantiate(items[i]);
+				item.transform.parent = GameObject.Find("Items").transform;
+				item.transform.position = transform.GetChild(i).position;
 			}
 		}
 	}
