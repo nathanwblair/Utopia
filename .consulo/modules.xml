@@ -526,15 +526,16 @@
         <module-layer name="Linux (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -552,15 +553,16 @@
         <module-layer name="Linux (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -578,15 +580,16 @@
         <module-layer name="Linux (any)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -604,15 +607,16 @@
         <module-layer name="MacOS (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -630,15 +634,16 @@
         <module-layer name="MacOS (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -656,15 +661,16 @@
         <module-layer name="MacOS (any)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -682,15 +688,16 @@
         <module-layer name="Windows (32 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />
@@ -708,15 +715,16 @@
         <module-layer name="Windows (64 bit)">
           <extension id="unity3d-child" />
           <extension id="unity3d-csharp-child" unsafe-code="false" language-version-module-name="" language-version-name="" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Models/sadfsdf.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Prefabs/i.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/CameraController.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScrips/MammothDrop.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/DropScripts/SoundController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/GameManager.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemText.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/ItemTransformation.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformController.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlatformManager.cs" />
           <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/Scripts/test.cs" />
-          <content url="file://$USER_HOME$/Documents/Utopia/Assets/_Scenes/sdfsdf.cs" />
+          <content url="file://$USER_HOME$/Documents/Utopia/Assets/SoundManager.cs" />
           <orderEntry type="sourceFolder" />
           <orderEntry type="module" module-name="Assembly-UnityScript-firstpass" />
           <orderEntry type="module" module-name="Assembly-CSharp-firstpass" />

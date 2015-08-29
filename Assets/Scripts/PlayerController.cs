@@ -20,11 +20,7 @@ public class PlayerController : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
-<<<<<<< HEAD
 		Vector3 movement = new Vector3(moveVertical, 0.0f, -moveHorizontal);
-=======
-        Vector3 movement = new Vector3(moveVertical, 0.0f, -moveHorizontal);
->>>>>>> origin/Stefan_Item_Text
 
         if (rb.velocity.x < 0f)
         {

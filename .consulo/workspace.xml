@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb6ec66-e7b5-4cb3-b06c-8abd1d3255c8" name="Default" comment="ZCommit&#10;">
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Models\MAMMOTH.OBJ.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Models\sadfsdf.cs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Models\sadfsdf.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Prefabs\Items\GolfItem.prefab" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Prefabs\Items\GolfItem.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Prefabs\Items\HoverboardItem.prefab" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Prefabs\Items\HoverboardItem.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Scripts\DropScrips.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Scripts\DropScrips\MammothDrop.cs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Scripts\DropScrips\MammothDrop.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\nathanwblair\Documents\Utopia\Assets\Scripts\GameManager.cs.meta~HEAD" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Prefabs/BasePlatform.prefab" afterPath="$PROJECT_DIR$/Assets/Prefabs/BasePlatform.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Prefabs/ThemeParkItem.prefab" afterPath="$PROJECT_DIR$/Assets/Prefabs/ThemeParkItem.prefab" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/_Scenes/main.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/main.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-vs.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-vs.csproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/ItemText.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemText.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/PlatformController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/PlatformController.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utopia-csharp.sln" afterPath="$PROJECT_DIR$/Utopia-csharp.sln" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utopia.sln" afterPath="$PROJECT_DIR$/Utopia.sln" />
@@ -27,6 +36,7 @@
     <file path="/PlayerController.cs" changelist="dcb6ec66-e7b5-4cb3-b06c-8abd1d3255c8" time="1440855879518" ignored="false" />
     <file path="/PlatformManager.cs" changelist="dcb6ec66-e7b5-4cb3-b06c-8abd1d3255c8" time="1440857586563" ignored="false" />
     <file path="/CameraController.cs" changelist="dcb6ec66-e7b5-4cb3-b06c-8abd1d3255c8" time="1440866068573" ignored="false" />
+    <file path="/ItemTransformation.cs" changelist="dcb6ec66-e7b5-4cb3-b06c-8abd1d3255c8" time="1440869088924" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,53 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="i.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Prefabs/i.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sadfsdf.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Models/sadfsdf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sdfsdf.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Scenes/sdfsdf.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlatformController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -102,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CameraController.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <file leaf-file-name="ItemTransformation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ItemTransformation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5245009">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlatformManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -126,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlatformManager.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs">
+      <file leaf-file-name="SoundManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SoundManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.15426497">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
               </folding>
@@ -153,10 +131,13 @@
         <option value="$PROJECT_DIR$/Assets/_Scenes/sdfsdf.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemText.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlatformController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DropScripts/MammothDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemTransformation.cs" />
+        <option value="$PROJECT_DIR$/Assets/SoundManager.cs" />
       </list>
     </option>
   </component>
@@ -342,6 +323,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/nathanwblair/Documents/Utopia/Assets/Scripts/PlayerController.cs" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -590,7 +572,7 @@
       <created>1440846933619</created>
       <updated>1440846933619</updated>
       <workItem from="1440846936765" duration="6394000" />
-      <workItem from="1440855220694" duration="9995000" />
+      <workItem from="1440855220694" duration="12490000" />
     </task>
     <task id="LOCAL-00001" summary="ZCommit&#10;">
       <created>1440847884350</created>
@@ -600,7 +582,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16389000" />
+    <option name="totallyTimeSpent" value="18884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -709,30 +691,6 @@
     <option name="MODULE_GROUPING" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/i.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Models/sadfsdf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scenes/sdfsdf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -761,34 +719,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Prefabs/i.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Models/sadfsdf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scenes/sdfsdf.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding />
+        <state vertical-scroll-proportion="0.37023592">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.030852994">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DropScripts/MammothDrop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4936479">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ItemTransformation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
@@ -805,30 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlatformManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SoundManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5245009">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.15426497">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
           </folding>
