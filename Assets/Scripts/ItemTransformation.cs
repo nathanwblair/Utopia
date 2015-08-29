@@ -9,6 +9,8 @@ public class ItemTransformation : MonoBehaviour {
     public float bobTime; 
     public float speed;
     public string name;
+
+    public GameObject drop;
  
     public GameObject textObject;
 
@@ -31,4 +33,13 @@ public class ItemTransformation : MonoBehaviour {
        transform.position += new Vector3(0, Mathf.Sin(bobTime) * speed * Time.deltaTime, 0);
        bobTime += Time.deltaTime;
 	}
+
+    void OnColliderEnter(Collision collider)
+    {
+        if(collider.transform.tag == "Player")
+        {
+            Instantiate(drop, transform.position, Quaternion.identity);
+        }
+
+    }
 }
