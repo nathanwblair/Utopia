@@ -3,7 +3,7 @@ using System.Collections;
 
 public class test : MonoBehaviour
 {
-
+    public GameObject 
 	// Use this for initialization
 	void Start ()
 	{
