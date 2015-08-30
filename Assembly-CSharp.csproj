@@ -47,7 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Models\sadfsdf.cs" />
-     <Compile Include="Assets\Scripts\DropScrips\MammothDrop.cs" />
+     <Compile Include="Assets\Scripts\AnimationController.cs" />
+     <Compile Include="Assets\Scripts\DropScripts\MammothDrop.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\ItemTransformation.cs" />
      <Compile Include="Assets\Scripts\PlatformController.cs" />
