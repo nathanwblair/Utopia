@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-<<<<<<< HEAD
 using System.Collections.Generic;
 
-public class MammothDrop : MonoBehaviour {
+public class MammothDrop : MonoBehaviour
+{
 
     public Transform player;
 
@@ -24,14 +24,14 @@ public class MammothDrop : MonoBehaviour {
     private Vector3 rightMammothEndPos;
 
     // Use this for initialization
-    void Start ()
+    void Start()
     {
         //Get Mammoth Object
         mammoth = transform.GetChild(0).gameObject;
-        
+
         GameObject tempObject = Instantiate(mammoth);
         //Creat 2D vertions
-        for(int i=0; i < maxNumOf2D; i++)
+        for (int i = 0; i < maxNumOf2D; i++)
         {
             int randY = Random.Range(0, Screen.width);
             int rand = Random.Range(0, 2);
@@ -40,17 +40,17 @@ public class MammothDrop : MonoBehaviour {
                 tempObject.transform.position = new Vector3(-spawn2DXPosOffset, randY, Camera.main.transform.position.z + spawn2DZPosOffset);
                 tempObject.transform.Rotate(new Vector3(0, 90, 0));
             }
-            else if(rand == 1)
+            else if (rand == 1)
             {
                 tempObject.transform.position = new Vector3(Screen.width + spawn2DXPosOffset, randY, Camera.main.transform.position.z + spawn2DZPosOffset);
                 tempObject.transform.Rotate(new Vector3(0, -90, 0));
             }
             tempObject.transform.localScale = new Vector3(0.2f * spawn2DZPosOffset, 0.1f * spawn2DZPosOffset, 0.1f * spawn2DZPosOffset);
 
-            mammoths2D.Add((GameObject)Instantiate(tempObject, Camera.main.ScreenToWorldPoint(tempObject.transform.position), Camera.main.transform.rotation).GetComponent<AnimationController>().Initialize());
+            mammoths2D.Add((GameObject)Instantiate(tempObject, Camera.main.ScreenToWorldPoint(tempObject.transform.position), Camera.main.transform.rotation));
         }
         Destroy(tempObject);
-        
+
         //Set up lerp locations
         leftMammothEndPos = new Vector3(-3, 0, 5);
         rightMammothEndPos = new Vector3(-3, 0, -5);
@@ -59,14 +59,14 @@ public class MammothDrop : MonoBehaviour {
 
         totalTimer = 0;
     }
-	
-	// Update is called once per frame
-	void Update ()
+
+    // Update is called once per frame
+    void Update()
     {
         transform.position = player.transform.position;
         totalTimer += Time.deltaTime;
 
-        foreach(GameObject obj in mammoths2D)
+        foreach (GameObject obj in mammoths2D)
         {
             //obj.GetComponent<Rigidbody>().;
         }
@@ -76,28 +76,4 @@ public class MammothDrop : MonoBehaviour {
 
 
     }
-=======
-
-public class MammothDrop : MonoBehaviour
-{
-
-	public Transform player;
-
-	private GameObject mammoth;
-	private GameObject mammothUI;
-
-	// Use this for initialization
-	void Start ()
-	{
-		mammoth = transform.GetChild(0).gameObject;
-		mammothUI = mammoth;
-		mammothUI.transform.Rotate(new Vector3(90, 0, 0));
-	}
-
-	// Update is called once per frame
-	void Update ()
-	{
-		transform.position = player.transform.position;
-	}
->>>>>>> 425c2f5bc3b95f9ac120208866b539901955461a
 }
