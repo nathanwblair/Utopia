@@ -34,11 +34,12 @@ public class ItemTransformation : MonoBehaviour {
        bobTime += Time.deltaTime;
 	}
 
-    void OnColliderEnter(Collision collider)
+    void OnCollisionEnter(Collision hit)
     {
-        if(collider.transform.tag == "Player")
+        if(hit.gameObject.tag == "Player")
         {
             Instantiate(drop, transform.position, Quaternion.identity);
+			Destroy(gameObject);
         }
 
     }

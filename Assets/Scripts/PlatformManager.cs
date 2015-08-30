@@ -23,6 +23,11 @@ public class PlatformManager : MonoBehaviour
 				platform.transform.position = platform.transform.parent.FindChild("EndMarker").position;
 				prevPlatform = platform;
 			}
+
+			endPlatform = Instantiate(endPlatform);
+			endPlatform.transform.parent = prevPlatform.transform;
+
+			endPlatform.transform.position = endPlatform.transform.parent.FindChild("EndMarker").position;
 		}
 
 	}
