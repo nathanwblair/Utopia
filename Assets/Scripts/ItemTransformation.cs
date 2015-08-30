@@ -8,7 +8,7 @@ public class ItemTransformation : MonoBehaviour {
 
     public float bobTime; 
     public float speed;
-    public string name;
+    public string itemName;
 
     public GameObject drop;
  
