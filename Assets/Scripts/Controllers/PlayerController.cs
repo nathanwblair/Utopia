@@ -17,8 +17,8 @@ public class PlayerController : MonoBehaviour
     // FixedUpdate is called before physics
     void FixedUpdate()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal") * 5;
-        float moveVertical = Input.GetAxis("Vertical") * 5;
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
 
 		Vector3 movement = new Vector3(moveVertical, 0.0f, -moveHorizontal);
 
