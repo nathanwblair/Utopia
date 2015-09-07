@@ -8,14 +8,10 @@ public class SoundManager : MonoBehaviour
 	public AudioSource musicTrack;
 	public AudioSource soundTrack;
 
-	public AudioClip testClip;
-	public AudioClip testClip2;
-
 	// Use this for initialization
 	void Start ()
 	{
 		soundTrack.volume = 0.5f;
-		SetClip(testClip2, 0);
 	}
 
 	// Update is called once per frame

@@ -28,6 +28,7 @@ public class ItemTransformation : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
     {
+        //Debug.Break();
        transform.Rotate(new Vector3(0, 30, 0) * Time.deltaTime);
 
        transform.position += new Vector3(0, Mathf.Sin(bobTime) * speed * Time.deltaTime, 0);
@@ -36,8 +37,10 @@ public class ItemTransformation : MonoBehaviour {
 
     void OnCollisionEnter(Collision hit)
     {
+
         if(hit.gameObject.tag == "Player")
         {
+          
             Instantiate(drop, transform.position, Quaternion.identity);
 			Destroy(gameObject);
         }
