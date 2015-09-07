@@ -36,3 +36,27 @@ C:\Users\Public\Documents\Unity Projects\Utopia\Temp\bin\Debug\Unity.CecilTools.
 C:\Users\Public\Documents\Unity Projects\Utopia\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
 C:\Users\Public\Documents\Unity Projects\Utopia\obj\Debug\Assembly-CSharp.dll
 C:\Users\Public\Documents\Unity Projects\Utopia\obj\Debug\Assembly-CSharp.pdb
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.xml
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEditor.xml
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\stefan.giapantzakis\Documents\Utopia\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\stefan.giapantzakis\Documents\Utopia\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\stefan.giapantzakis\Documents\Utopia\obj\Debug\Assembly-CSharp.dll
+C:\Users\stefan.giapantzakis\Documents\Utopia\obj\Debug\Assembly-CSharp.pdb

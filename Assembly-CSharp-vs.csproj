@@ -54,7 +54,13 @@
      <Compile Include="Assets\Scripts\Controllers\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Controllers\SpawnerController.cs" />
      <Compile Include="Assets\Scripts\DropControllers\GolfSpawnerController.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\DropScripts\MammothDrop.cs" />
+=======
+     <Compile Include="Assets\Scripts\DropControllers\Mammoth\MammothAnimationController.cs" />
+     <Compile Include="Assets\Scripts\DropControllers\Mammoth\MammothSmallAnimationController.cs" />
+     <Compile Include="Assets\Scripts\DropControllers\Mammoth\MammothSpawnerController.cs" />
+>>>>>>> BuggyAnimation
      <Compile Include="Assets\Scripts\DropScripts\SoundController.cs" />
      <Compile Include="Assets\Scripts\ItemTransformation.cs" />
      <Compile Include="Assets\Scripts\SoundManager.cs" />

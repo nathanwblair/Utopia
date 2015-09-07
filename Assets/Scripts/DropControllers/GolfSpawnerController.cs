@@ -13,8 +13,8 @@ public class GolfSpawnerController : SpawnerController {
 	
 	}
 
-    public override void InstastiateDrop(GameObject _instance)
+    public override void InitialiseDrop(GameObject _instance)
     {
-        base.InstastiateDrop(_instance);
+        base.InitialiseDrop(_instance);
     }
 }
