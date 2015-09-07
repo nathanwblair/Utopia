@@ -7,7 +7,7 @@ public class MammothSpawnerController : SpawnerController
 
     public Transform player;
 
-    public GameObject mammothCustom;
+    public GameObject customMammothPrefab;
 
     public int lengthOfAcc = 2;        //second for lerp
     public int fullAnimationLength = 5;    //time they run on the screen
@@ -19,24 +19,15 @@ public class MammothSpawnerController : SpawnerController
     private Vector3 leftMammothEndPos;
     private Vector3 rightMammothEndPos;
 
-    // Use this for initialization
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public override void InitialiseDrop(GameObject instance)
     {
         //Creat 2D
-        int randY = Random.Range(0, Screen.width);
-        Vector3 posA = new Vector3(-spawn2DXPosOffset, randY, 0);
-        Vector3 posB = new Vector3(Screen.width + spawn2DXPosOffset, randY, 0);
+        int randY = Random.Range(0, Screen.height);
+        Vector3 posA = new Vector3(-spawn2DXPosOffset, randY, spawn2DZPosOffset);
+        Vector3 posB = new Vector3(Screen.width + spawn2DXPosOffset, randY, spawn2DZPosOffset);
+
+        posA = Camera.main.ScreenToWorldPoint(posA) - Camera.main.transform.position;
+        posB = Camera.main.ScreenToWorldPoint(posB) - Camera.main.transform.position;
 
         instance.GetComponent<AnimationController>().Initialise(posA, posB, Camera.main.transform.rotation);
     }

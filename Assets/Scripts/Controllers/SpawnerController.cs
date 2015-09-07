@@ -26,7 +26,7 @@ public class SpawnerController : MonoBehaviour {
         timer += Time.deltaTime;
         if(timer >= dropLengthTime)
         {
-            Destroy(transform);
+            Destroy(gameObject);
         }
     }
 

@@ -22,7 +22,7 @@ public class ItemTransformation : MonoBehaviour {
         textObject = Instantiate(textObject);
         textObject.transform.parent = transform;
         textObject.transform.position = new Vector3(transform.position.x, transform.position.y + 2, transform.position.z);
-        textObject.GetComponent<TextMesh>().text = name;
+        textObject.GetComponent<TextMesh>().text = itemName;
 	}
 	
 	// Update is called once per frame

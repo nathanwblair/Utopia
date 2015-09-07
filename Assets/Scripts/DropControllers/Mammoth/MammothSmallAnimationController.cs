@@ -14,11 +14,6 @@ public class MammothSmallAnimationController : AnimationController
     void Start () {
         isLeft = Convert.ToBoolean((int)(Random.Range(0, 2)));
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
     // Update is called once per frame
     public override void Animate()
@@ -33,8 +28,9 @@ public class MammothSmallAnimationController : AnimationController
             start = pointB + Camera.main.transform.position;
             end = pointA + Camera.main.transform.position;
         }
+        //Debug.Break();
 
 
-        Vector3.Lerp(start, end, parentSpawner.timer / parentSpawner.dropLengthTime * speed);
+        transform.position = Vector3.Lerp(start, end, (parentSpawner.timer / parentSpawner.dropLengthTime) * speed);
     }
 }
